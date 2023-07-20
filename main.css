@@ -1,0 +1,26 @@
+* {
+    font-family: Tahoma;
+}
+
+body {
+    align-content: center;
+}
+.row {
+    display: flex;
+    justify-content: space-evenly;
+}
+header {
+    
+}
+#display {
+    width: 75%;
+}
+#buttons {
+    border: 2px solid yellow;
+    background-color: pink;
+}
+.button {
+    padding: 10%;
+    background-color: purple;
+    margin-top: 5px;
+}
